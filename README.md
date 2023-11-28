@@ -15,7 +15,7 @@
   - 언어 : Python
   - 라이브러리 : Pandas, Numpy, Scikit-learn
   - 프레임워크 : PyTorch
-  - 모델 : ARIMA, Prophet, LSTM, NLinear, PatchTST
+  - 모델 : ARIMA, Prophet, LSTM, GRU, CatboostRegressor, XGBRegressor, LightGBMRegressor, PatchTST
 - 프로젝트 결과
   - 데이콘 15등(score:0.56458) - 팀원 3명, 본선 진출
   - 파생변수 생성 등 전처리의 중요성과 시계열 데이터의 다양한 활용방법 학습
